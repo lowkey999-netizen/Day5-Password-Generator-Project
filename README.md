@@ -5,4 +5,4 @@ A simple customizable password generator written in Python. Generates strong pas
 ## How to Run
 
 ```bash
-python password_generator.py
+python main.py
